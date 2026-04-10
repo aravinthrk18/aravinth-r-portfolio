@@ -46,12 +46,16 @@ const HeroSection = () => {
           <p className="text-muted-foreground max-w-lg mb-8 leading-relaxed animate-fade-up-delay-3">
             B.Tech IT student skilled in Java, JavaScript, and Data Structures & Algorithms. Passionate about building scalable web applications.
           </p>
-          <div className="flex gap-4 justify-center md:justify-start animate-fade-up-delay-3">
+          <div className="flex flex-wrap gap-4 justify-center md:justify-start animate-fade-up-delay-3">
             <a href="#projects" className="glow-btn px-6 py-3 rounded-lg font-medium text-primary-foreground">
               View Projects
             </a>
             <a href="#contact" className="glow-btn-outline px-6 py-3 rounded-lg font-medium">
               Contact Me
+            </a>
+            <a href="/Aravinth_Resume.pdf" download className="glow-btn-outline px-6 py-3 rounded-lg font-medium flex items-center gap-2">
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3M3 17v3a2 2 0 002 2h14a2 2 0 002-2v-3" /></svg>
+              Resume
             </a>
           </div>
         </div>
