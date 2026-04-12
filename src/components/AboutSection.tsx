@@ -22,7 +22,7 @@ const AboutSection = () => {
         <div className="max-w-4xl mx-auto grid md:grid-cols-5 gap-8">
           <div className={`md:col-span-3 glass-card rounded-2xl p-8 md:p-10 transition-all duration-700 delay-200 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}>
             <p className="text-muted-foreground leading-relaxed font-body">
-              I'm a passionate B.Tech Information Technology student at St. Joseph's Institute of Technology with a strong foundation in full-stack web development and problem solving. I enjoy breaking down complex problems using Data Structures & Algorithms and have solved over 140+ problems on LeetCode.
+              I'm a passionate B.Tech Information Technology student at St. Joseph's Institute of Technology with a strong foundation in full-stack web development and problem solving. I enjoy breaking down complex problems using Data Structures & Algorithms and have solved over 150+ problems on LeetCode.
             </p>
             <p className="text-muted-foreground leading-relaxed font-body mt-5">
               My interests span from building modern web applications with React.js to working with databases and RESTful APIs. I believe in writing clean, efficient code and continuously learning new technologies.
