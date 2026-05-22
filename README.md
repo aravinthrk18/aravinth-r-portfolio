@@ -13,11 +13,10 @@
 
 Hi, I'm **Aravinth R**, a passionate **B.Tech Information Technology** student who loves building modern web applications, exploring AI projects, and improving problem-solving skills through DSA.
 
-- 🚀 Building real-world projects
-- 💡 Interested in AI + Web Development
-- 📚 Practicing Data Structures & Algorithms
-- 🏋️ Gym enthusiast
-- 🎯 Goal: Become a top software engineer
+- Building real-world projects
+-  Interested in AI + Web Development
+-  Practicing Data Structures & Algorithms
+-  Goal: Become a top software engineer
 
 ---
 
@@ -37,39 +36,13 @@ Hi, I'm **Aravinth R**, a passionate **B.Tech Information Technology** student w
 
 ---
 
-# 🚀 Featured Projects
 
-## 🧠 Smart PDF Analyzer AI
-An AI-powered application where users can upload PDFs and:
-- 📄 Generate smart summaries
-- ❓ Ask questions from uploaded PDFs
-- 🧠 Get AI-generated explanations
-- ⚡ Extract important points instantly
 
 ### 🔥 Tech Used
 `React` `Node.js` `AI APIs` `PDF Parsing`
 
----
 
-## 🎯 Premium Quiz Web App
-A stylish multi-page quiz platform with:
-- ⏱️ Timers
-- 📊 Leaderboards
-- 🌙 Dark Mode
-- 🎨 Premium UI
-- 📈 Score Analytics
 
-### 🔥 Tech Used
-`HTML` `CSS` `JavaScript`
-
----
-
-## 🤖 AI Smart Dustbin
-An autonomous AI-based waste detection project using:
-- 📷 Vision-based tracking
-- 🧠 Object detection
-- 🚶 Autonomous movement
-- 🌍 Smart environment support
 
 ---
 
